@@ -11,9 +11,7 @@ This project was built using Python. To run the analysis, you will need the foll
 * `seaborn` (Advanced statistical plotting)
 
 ## 📂 Repository Structure
-* `notebook.ipynb` : The main Jupyter Notebook containing the data pipeline, EDA, and insight generation.
-* `sentiment_data.csv` : Bitcoin Fear/Greed Index classification data.
-* `trader_data.csv` : Historical high-frequency trader data from Hyperliquid.
+* `performTask.ipynb` : The main Jupyter Notebook containing the data pipeline, EDA, and insight generation.
 * `README.md` : Project documentation.
 
 * ## 💡 Key Findings & Strategic Insights
